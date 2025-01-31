@@ -1,0 +1,16 @@
+1) ChatGPT package details
+2) New Repo, Unique name, Pypi rog search never used
+3) Clone then run the command
+git clone --branch main https://github.com/gopalakrishnanarjun1194/ModelMyFinance.git
+Create new folder under main folder locally using chatGPT
+step 1
+pip install setuptools wheel
+Step 2
+python setup.py sdist bdist_wheel
+Step 3
+twine upload dist/*
+
+IMp cmd run inside repo (C:\Users\Admin\ModelMyFinance)
+C:\Users\Admin\ModelMyFinance>git add .
+C:\Users\Admin\ModelMyFinance>git commit -m "uploading the code"
+C:\Users\Admin\ModelMyFinance>git push

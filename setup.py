@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='ModelMyFinance',  # Replace with your package name
-    version='1.0.0',  # Replace with your package version
+    version='1.0.1',  # Replace with your package version
     packages=find_packages(),
     install_requires=[
       
@@ -15,7 +15,7 @@ setup(
     author='Gopalakrishnanamsha',
     author_email='gopalakrishnana02@gmail.com',
     description='Python Package for Financial Models',
-    long_description=open('README.md').read(),
+    long_description=open('README.md', encoding='utf-8').read(),
     long_description_content_type='text/markdown',
     url='https://github.com/gopalakrishnanarjun1194/ModelMyFinance',  # Update with your GitHub repository URL
     classifiers=[

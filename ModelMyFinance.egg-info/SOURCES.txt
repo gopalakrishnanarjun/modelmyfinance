@@ -1,0 +1,7 @@
+README.md
+setup.py
+ModelMyFinance.egg-info/PKG-INFO
+ModelMyFinance.egg-info/SOURCES.txt
+ModelMyFinance.egg-info/dependency_links.txt
+ModelMyFinance.egg-info/entry_points.txt
+ModelMyFinance.egg-info/top_level.txt
