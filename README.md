@@ -1,10 +1,10 @@
-# Modelmyfinance
+# modelmyfinance
 
 
 
 
 
-**Modelmyfinance** is a Python package designed to help users model, simulate, and analyze their financial data effectively. Whether you're a personal finance enthusiast, a small business owner, or a data scientist working with financial data, this package equips you with the tools to make informed decisions and optimize your financial strategies.
+**modelmyfinance** is a Python package designed to help users model, simulate, and analyze their financial data effectively. Whether you're a personal finance enthusiast, a small business owner, or a data scientist working with financial data, this package equips you with the tools to make informed decisions and optimize your financial strategies.
 
 ---
 ## 🚀 Features
@@ -32,7 +32,7 @@ pip install modelmyfinance
 For the latest development version, install directly from GitHub:
 
 ```bash
-pip install git+https://github.com/gopalakrishnanarjun/ModelMyFinance.git
+pip install git+https://github.com/gopalakrishnanarjun/modelmyfinance.git
 ```
 
 ---
@@ -56,7 +56,7 @@ simulation = model.run_monte_carlo_simulation(iterations=1000)
 simulation.plot_results()
 ```
 
-Check the [Documentation](https://github.com/yourusername/Modelmyfinance/wiki) for more detailed examples and API references.
+Check the [Documentation](https://github.com/yourusername/modelmyfinance/wiki) for more detailed examples and API references.
 
 ---
 
@@ -75,12 +75,12 @@ Check the [Documentation](https://github.com/yourusername/Modelmyfinance/wiki) f
 
 ## 🤝 Contributing
 
-We welcome contributions to **Modelmyfinance**! Here's how you can get started:
+We welcome contributions to **modelmyfinance**! Here's how you can get started:
 
 1. Fork the repository.
 2. Clone your forked repository:
    ```bash
-   git clone https://github.com/gopalakrishnanarjun/ModelMyFinance.git
+   git clone https://github.com/gopalakrishnanarjun/modelmyfinance.git
    ```
 3. Create a new branch:
    ```bash
@@ -115,14 +115,6 @@ If you find any security vulnerabilities, please report them by creating an issu
 ## 🌟 Acknowledgments
 
 We extend our gratitude to all contributors and open-source libraries that made this project possible.
-
----
-
-## 📩 Connect with Us
-
-- GitHub: [@](https://github.com/yourusername)gopalakrishnanarjun
-- Instagram: @gopalk\_arjun
-- Email: gopalakrishnan.a02\@aiandml.in
 
 ---
 
