@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='modelmyfinance',  # Replace with your package name
-    version='1.0.4',  # Replace with your package version
+    version='1.0.5',  # Replace with your package version
     packages=find_packages(),
     install_requires=[
       
@@ -12,7 +12,7 @@ setup(
             'modelmyfinancee = modelmyfinancee.opm:binomial_option_pricing',  # Replace 'your_script_name' with the actual name of your script
         ],
     },
-    author='Gopalakrishnanamsha',
+    author='Gopalakrishnan Arjunan',
     author_email='gopalakrishnana02@gmail.com',
     description='Python Package for Financial Models',
     long_description=open('README.md', encoding='utf-8').read(),

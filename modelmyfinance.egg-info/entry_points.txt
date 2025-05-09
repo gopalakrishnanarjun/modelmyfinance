@@ -1,0 +1,2 @@
+[console_scripts]
+modelmyfinancee = modelmyfinancee.opm:binomial_option_pricing
