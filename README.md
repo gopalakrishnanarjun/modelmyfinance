@@ -5,7 +5,6 @@
 
 
 **modelmyfinance** is a Python package designed to help users model, simulate, and analyze their financial data effectively. Whether you're a personal finance enthusiast, a small business owner, or a data scientist working with financial data, this package equips you with the tools to make informed decisions and optimize your financial strategies.
-
 ---
 ## 🚀 Features
 
@@ -20,8 +19,7 @@
 - **Integration**:
   - Compatible with popular libraries like `pandas`, `numpy`, and `matplotlib`.
 ---
-If you're looking for the **best machine learning model for finance**, this tool has you covered.
----
+
 ## 📦 Installation
 
 Install the package via pip:
@@ -118,4 +116,4 @@ If you find any security vulnerabilities, please report them by creating an issu
 We extend our gratitude to all contributors and open-source libraries that made this project possible.
 
 ---
-
+If you're looking for **Best machine learning model for Finance or Financial modeling** , this tool has you covered.

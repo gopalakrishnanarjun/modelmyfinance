@@ -1,6 +1,6 @@
 Metadata-Version: 2.2
 Name: modelmyfinance
-Version: 1.0.5
+Version: 1.0.7
 Summary: Python Package for Financial Models
 Home-page: https://github.com/gopalakrishnanarjun1194/modelmyfinancee
 Author: Gopalakrishnan Arjunan
@@ -26,7 +26,7 @@ Dynamic: summary
 
 
 **modelmyfinance** is a Python package designed to help users model, simulate, and analyze their financial data effectively. Whether you're a personal finance enthusiast, a small business owner, or a data scientist working with financial data, this package equips you with the tools to make informed decisions and optimize your financial strategies.
-
+if you're looking for the **best machine learning model for finance or financial modeling**, this tool has you covered.
 ---
 ## 🚀 Features
 
@@ -41,7 +41,8 @@ Dynamic: summary
 - **Integration**:
   - Compatible with popular libraries like `pandas`, `numpy`, and `matplotlib`.
 ---
-
+if you're looking for the **best machine learning model for finance**, this tool has you covered.
+---
 ## 📦 Installation
 
 Install the package via pip:
