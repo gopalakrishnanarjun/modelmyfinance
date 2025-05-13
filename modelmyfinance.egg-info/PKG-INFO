@@ -1,9 +1,9 @@
 Metadata-Version: 2.2
 Name: modelmyfinance
-Version: 1.0.4
+Version: 1.0.5
 Summary: Python Package for Financial Models
 Home-page: https://github.com/gopalakrishnanarjun1194/modelmyfinancee
-Author: Gopalakrishnanamsha
+Author: Gopalakrishnan Arjunan
 Author-email: gopalakrishnana02@gmail.com
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License

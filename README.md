@@ -20,7 +20,8 @@
 - **Integration**:
   - Compatible with popular libraries like `pandas`, `numpy`, and `matplotlib`.
 ---
-
+If you're looking for the **best machine learning model for finance**, this tool has you covered.
+---
 ## 📦 Installation
 
 Install the package via pip:
